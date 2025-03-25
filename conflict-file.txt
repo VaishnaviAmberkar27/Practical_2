@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the second version of conflict-file.txt
+=======
+This is the first version of conflict-file.txt
+>>>>>>> conflict-branch
